@@ -1,0 +1,28 @@
+# Compiled files
+/target/
+
+# Cargo.lock is a snapshot of the dependency graph
+# https://doc.rust-lang.org/cargo/guide/cargo-toml-vs-cargo-lock.html
+Cargo.lock
+
+# Optional build directory, remove if you want to check in your build artifacts
+# /target/
+
+# IDE files
+/.vscode/
+/.idea/
+
+# Rust language server
+.rustc_info.json
+
+# Generated documentation
+/book/
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Editor-specific files
+*.swp
+*.swo
+*~
